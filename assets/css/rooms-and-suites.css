@@ -44,10 +44,12 @@ main {
 
 .small-image {
     height: 105px;
+    height: 105px;
 }
 
 .large-image {
     height: 227px;
+    width: 303px;
 }
 
 .side-by-side-container {
