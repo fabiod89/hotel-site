@@ -66,10 +66,12 @@ h2 {
 
 .small-image {
 	height: 105px;
+	width: 139px;
 }
 
 .large-image {
 	height: 227px;
+	width: 289px;
 }
 
 .side-by-side-container {
